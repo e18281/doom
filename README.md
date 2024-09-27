@@ -1,0 +1,1 @@
+https://doomoflostkingdoms.blogspot.com/
