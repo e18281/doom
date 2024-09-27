@@ -1,4 +1,4 @@
-https://doomoflostkingdoms.blogspot.com/
+失落的國度 mudlet 地圖
 
 使用方法:
 1. 下載和安裝 mudlet https://www.mudlet.org/zh/
@@ -71,3 +71,5 @@ https://doomoflostkingdoms.blogspot.com/
 -我是mudlet的新手.這個package是根據generic mapper隨便改寫的.
 
 -感謝Longinus的幫助.
+
+https://doomoflostkingdoms.blogspot.com/
