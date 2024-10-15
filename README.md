@@ -52,7 +52,13 @@
 
 -搜尋房間: "rs <關鍵詞>" (room search).
 
--房間筆記: "rn <room id> <note>" 或者 "rn <note>" 或者 "rn" (room note). 刪除用 "rn del."
+-搜尋物品 "rso <物品名稱>" (room search object)
+
+-搜尋物品筆記 "rson <lua regex>"
+
+-房間筆記: "rr <room id> <note>" 或者 "rr <note>" 或者 "rr." 刪除用 "rn del."
+
+-物品筆記: 用滑鼠按物品旁邊的 add 把他存到地圖檔的room user data. 用滑鼠按 note 然後用 "rr <note>"可以寫物品筆記. 按下物品或房間的筆記會把它複製到剪貼簿上.
 
 -撞隱藏出口: "td" 或者 "tdd."
 
